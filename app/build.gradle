@@ -35,4 +35,11 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+    // https://mvnrepository.com/artifact/org.kohsuke/github-api
+    implementation 'org.kohsuke:github-api:1.313'
+    // https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient
+    implementation 'com.google.http-client:google-http-client-gson:1.19.0'
+    //Add HttpClient classes from a different package
+    implementation 'cz.msebera.android:httpclient:4.5.8'
+
 }
