@@ -1,0 +1,1 @@
+ghalgahi_mott=https://github.com/ghalghai/ghalgahi_mott/blob/master/app/src/main/assets/dict.txt
