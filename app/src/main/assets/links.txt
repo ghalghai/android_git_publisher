@@ -1,2 +1,1 @@
-ghalgahi_mott=https://github.com/ghalghai/ghalgahi_mott/blob/master/app/src/main/assets/dict.txt
-google=www.google.com
+ghalgahi_mott=https://api.github.com/repos/ghalghai/ghalgahi_mott/contents/app/src/main/assets/dict.txt

@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         for (Map.Entry<String, String> e : links.entrySet()) {
             Button element = new Button(this);
             element.setText(e.getKey());
+            element.setTextSize(24);
             element.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
